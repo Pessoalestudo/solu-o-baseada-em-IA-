@@ -9,7 +9,7 @@
 
   ### DESCRIÇÃO
 
-  - Nosso projeto trata-se de uma de Projeto de extensão universitária, trabalhamos em uma criação e desenvolvimento web site com Chat box baseado em IA,
+  - Nosso projeto trata-se de uma de Projeto de extensão universitária, trabalhamos em uma criação e desenvolvimento web site com Chatbot baseado em IA,
     referenciando um site e-commerce.
 
     Link de produção:
